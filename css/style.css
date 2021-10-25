@@ -1,0 +1,29 @@
+body {
+   background-color: #083B4C;
+   color: #000;
+}
+
+h1{
+   color: white;
+}
+
+.box {
+   height: 80px;
+   width: 80px;
+   margin: 10px;
+   background-color: #1389B2;
+   border: 1px solid black;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.box.per3 {
+   background-color: #0BD6A1;
+}
+.box.per5 {
+   background-color: #FFD166;
+}
+
+.box.per3e5 {
+   background-color: #F0466F;
+}
